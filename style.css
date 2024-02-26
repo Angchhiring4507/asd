@@ -1,0 +1,61 @@
+/* styles.css */
+body {
+    font-family: 'Protest Revolution', sans-serif;
+    text-align: center;
+    color: #dea548; /* Adjust text color as needed */
+    background-color:#d0bfed ;
+ 
+}
+
+
+
+.header-content {
+    display: flex;
+    text-align: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+}
+.header-content h1.image {
+    margin: left 30px;
+   
+}
+
+
+
+h1  {
+    font-family: 'Protest Revolution', sans-serif; /* Use a bold, elegant font */
+    font-size: 2.5rem;
+    margin: 0;
+    color:  #e3880f; /* Subtle cream for title */
+    padding-top: 80px;
+    padding-left: 50px;
+    padding-right: 90px;
+    margin-right: 70px;
+}
+
+h2{
+    font-family: 'Protest Revolution', sans-serif; 
+    font-size: 2.5rem;
+    margin: 0;
+    margin-top: 30px;
+    text-align: end;
+    color:  #e3880f; /* Subtle cream for title */
+}
+
+
+
+main , h3{
+    padding: 20px;
+    font-family: 'Pacifico', cursive; /* Use a handwritten or cursive font */
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #5F9EA0; /* Muted blue for lyrics */
+    font-size: x-large;
+}
+
+footer {
+    padding: 50px;
+    background-color: #46a4c3; /* Light gray background for footer */
+    color: #5f5c58; /* Subtle cream for footer text */
+}
